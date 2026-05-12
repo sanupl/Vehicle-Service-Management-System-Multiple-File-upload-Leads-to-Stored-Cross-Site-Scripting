@@ -1,7 +1,7 @@
 # CVE-2021-46078
 
 ### Exploit Title: Vehicle Service Management System - 'Multiple' File upload Leads to Stored Cross-Site Scripting
-### Exploit Author: <a href="https://www.plsanu.com">P.L.Sanu</a>
+### Exploit Author: <a href="https://www.plsanu.com">SANU P.L</a>
 ### CVE: CVE-2021-46078
 ### CVSS: 4.8 MEDIUM
 ### References: 
